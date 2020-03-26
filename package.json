@@ -6,6 +6,7 @@
     "module": true,
   "dependencies": {
     "ccloader": "^2.14.1",
-    "extendable-severed-heads": "^1.0.0"
+    "extendable-severed-heads": "^1.0.0",
+    "modifier-api": "^0.1.0"
   }
 }
